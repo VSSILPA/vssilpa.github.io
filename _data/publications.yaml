@@ -1,0 +1,42 @@
+papers:
+
+  - title: "Concept Denoising Score Matching for Responsible Text-to-Image Generation"
+    authors: "<b> Silpa Vadakkeeveetil Sreelatha</b>, Sauradip Nag, Serge Belongie, Muhammad Awais, Anjan Dutta"
+    venue: "Safe Generative AI Workshop, NeurIPS 2024"
+    paper_pdf: "https://openreview.net/forum?id=iwOdPBePxL&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2024%2FWorkshop%2FSafeGenAi%2FAuthors%23your-submissions)"
+    type: "paper"
+
+  - title: "DeNetDM: Debiasing by Network Depth Modulation"
+    authors: "<b>Silpa Vadakkeeveetil Sreelatha<sup>‡</sup></b>, Adarsh Kappiyath<sup>‡</sup>, Abhra Chaudhuri, Anjan Dutta"
+    venue: "NeurIPS'24"
+    paper_pdf: "https://arxiv.org/pdf/2403.19863"
+    code: "https://github.com/kadarsh22/DeNetDM"
+    project_page: "https://vssilpa.github.io/denetdm/"
+    type: "paper"
+
+  - title: "Self-Supervised Enhancement of Latent Discovery in GANs"
+    authors: "Adarsh Kappiyath<sup>‡</sup>, <b>Silpa Vadakkeeveetil Sreelatha<sup>‡</sup></b>, S Sumitra"
+    venue: "AAAI'22"
+    paper_pdf: "https://cdn.aaai.org/ojs/20667/20667-13-24680-1-2-20220628.pdf"
+    type: "paper"
+
+  - title: "Understanding Advertisements with BERT"
+    authors: "Kanika Kalra, Bhargav Kurma, <b>Silpa  Vadakkeeveetil Sreelatha</b>, Manasi Patwardhan, Shirish Karande"
+    venue: "ACL'22"
+    paper_pdf: "https://aclanthology.org/2020.acl-main.674.pdf"
+    type: "paper"
+
+  - title: "Disentanglement based Active Learning"
+    authors: "Adarsh Kappiyath<sup>‡</sup>, <b>Silpa Vadakkeeveetil Sreelatha<sup>‡</sup></b>, S Sumitra"
+    venue: "IJCNN'21"
+    paper_pdf: "https://arxiv.org/abs/1912.07018"
+    code: "https://github.com/kadarsh22/disentanglement_based_active_learning"
+    type: "paper"
+
+  - title: "Method and system for visio-linguistic understanding using contextual language model reasoners"
+    authors: "Sai Sree Bhargav Kurma, Kanika Kalra, <b>Silpa Vadakkeeveetil Sreelatha</b>, Manasi Patwardhan, Shirish Subhash Karande"
+    venue: "US Patent"
+    patent_link: "https://patents.google.com/patent/US11699275B2/en"
+    type: "patent"
+
+  

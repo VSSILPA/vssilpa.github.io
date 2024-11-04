@@ -1,0 +1,25 @@
+experiences:
+
+- place: "University of Surrey"
+  time: "June 2023 - now"
+  title: "Ph.D. Student"
+  subtitle: "People-Centred Artificial Intelligence"
+  category: "school"
+  
+- place: "TCS Research"
+  time: "July 2019-April 2022"
+  title: "Researcher"
+  subtitle: "Deep Learning & AI"
+  category: "work"
+
+- place: "Indian Institute of Space Science and Technology, India"
+  time: "July 2017 – June 2019"
+  title: "M.Tech. Student"
+  subtitle: "Machine Learning and Computing"
+  category: "school"
+
+- place: "Government Engineering College, Sreekrishnapuram"
+  time: "Aug 2012 - May 2016"
+  title: "B.Tech Student"
+  subtitle: "Computer Science and Engineering <br/>"
+  category: "school"

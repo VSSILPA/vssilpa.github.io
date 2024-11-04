@@ -1,0 +1,8 @@
+source:      .
+destination: ./_site
+includes:    ./_includes
+baseurl: /vssilpa.github.io
+
+collections:
+  projects:
+    output: true
