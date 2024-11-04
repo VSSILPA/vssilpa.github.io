@@ -1,8 +1,4 @@
-source:      .
-destination: ./_site
-includes:    ./_includes
-baseurl: /vssilpa.github.io
-
-collections:
-  projects:
-    output: true
+title: My Jekyll Site
+description: A description of your site.
+baseurl: ""  # Leave this empty for user/organization sites
+url: "https://vssilpa.github.io"
