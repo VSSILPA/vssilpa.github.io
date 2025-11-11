@@ -1,12 +1,12 @@
 papers:
-   - title: "RespoDiff: Dual-Module Bottleneck Transformation for Responsible & Faithful T2I Generation"
-    authors: "<b> Silpa Vadakkeeveetil Sreelatha</b>, Sauradip Nag, Muhammad Awais, Serge Belongie, Anjan Dutta"
+  - title: "RespoDiff: Dual-Module Bottleneck Transformation for Responsible & Faithful T2I Generation"
+    authors: "<b>Silpa Vadakkeeveetil Sreelatha</b>, Sauradip Nag, Muhammad Awais, Serge Belongie, Anjan Dutta"
     venue: "NeurIPS'25"
     paper_pdf: "https://arxiv.org/abs/2509.15257"
     code: "https://github.com/VSSILPA/respodiff"
     project_page: "https://vssilpa.github.io/respodiff_project_page/"
     type: "paper"
-    
+
   - title: "Concept Denoising Score Matching for Responsible Text-to-Image Generation"
     authors: "<b> Silpa Vadakkeeveetil Sreelatha</b>, Sauradip Nag, Serge Belongie, Muhammad Awais, Anjan Dutta"
     venue: "Safe Generative AI Workshop, NeurIPS 2024"
